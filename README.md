@@ -1,7 +1,7 @@
 # Responsive Portfolio
 
 ## Description
-This is a portfolio of my works as a web developer and Designer.
+This is a portfolio of my works as a **Web Developer** and **Designer**.
 
 ## Author 
 **Jim Ochieng :** Programming student passionate about the Tech world.
